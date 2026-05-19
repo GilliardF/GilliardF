@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/gilliard-fernandes-bdata-dados/">
     <img src="https://img.shields.io/badge/LinkedIn-Gilliard_Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:gilliard.fernandes.developer@gmail.com">
     <img src="https://img.shields.io/badge/Email-Entre_em_Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>

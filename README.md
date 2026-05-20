@@ -77,15 +77,6 @@ Minha expertise vai desde a **orquestração de pipelines** em nuvem e **modelag
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=GilliardF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GilliardF&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 🚀 Destaques do Portfólio
 
 Confira meus projetos principais aplicando conceitos de Nuvem, Análise e IA:

@@ -94,8 +94,6 @@ Confira meus projetos principais aplicando conceitos de Nuvem, Análise e IA:
 | :--- | :--- |
 | **[📊 Análise Dados Legislativos](https://github.com/GilliardF/camara_deputados_56)** | Análise exploratória de dados públicos da **56ª Legislatura** da Câmara dos Deputados, utilizando técnicas de Estatística e visualização para extrair possiveis anomalias com gastos públicos. |
 | **[🤖 Solução AI Full Stack](https://github.com/GilliardF/Backend_AI)** | Desenvolvimento de uma aplicação completa de Inteligência Artificial, unindo um Backend robusto em **FastAPI** (Python) e uma interface em **HTML/JS** (Front AI). |
-| **[🕵️ Detecção de Fraudes Azure](https://github.com/GilliardF/DIO_Document_Anti_Fraude)** | Sistema de segurança e conformidade utilizando **Azure AI Document Intelligence** para validação automática de identidade e análise anti-fraude. |
-| **[📝 Tradutor com Azure OpenAI](https://github.com/GilliardF/DIO_Tradutor_Artigos_Azure_OpenAI)** | Aplicação de GenAI consumindo a API da **Azure OpenAI** para tradução técnica e sumarização de artigos usando modelos GPT-4. |
 
 <!-- Link para todos os repositórios -->
 <p align="right">
